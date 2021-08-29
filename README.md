@@ -10,16 +10,16 @@
   
 # Grupo
   
-  Alcides Novais da Silva
-  Antonio Augusto Fonseca
-  Carlos Frederico Missick
-  Djan Magno
-  Douglas Figueiredo
-  Edney Moita
-  João Pedro M. Póvoa
-  Pedro Mascarenhas
-  Raniere Lourenço
-  Renan de Aguiar Modesto
+  - Alcides Novais da Silva
+  - Antonio Augusto Fonseca
+  - Carlos Frederico Missick
+  - Djan Magno
+  - Douglas Figueiredo
+  - Edney Moita
+  - João Pedro M. Póvoa
+  - Pedro Mascarenhas
+  - Raniere Lourenço
+  - Renan de Aguiar Modesto
   
 # Repositórios
   
