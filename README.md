@@ -38,4 +38,4 @@ A aplicação resultante ficou disponível na nuvem da VTEX, na loja HIRINGCODER
   
 # URL Projeto
 
-[Corebiz Store](https://corebiz--hiringcoders2021.myvtex.com/) (acesso restrito)
+[Corebiz Store](https://corebiz--hiringcoders202103.myvtex.com/) (acesso restrito)
