@@ -15,26 +15,23 @@ O desafio consistia em montar uma loja usando a temática da Corebiz e os pontos
 
 A aplicação resultante ficou disponível na nuvem da VTEX, na loja HIRINGCODERS202103 (com acesso restrito aos usuários do VTEX IO).
  
-# Extra 
- 
-<extra>
-  
 # Grupo
   
-  - Alcides Novais da Silva
-  - Antonio Augusto Fonseca
-  - Carlos Frederico Missick
-  - Djan Magno
-  - Douglas Figueiredo
-  - Edney Moita
-  - João Pedro M. Póvoa
-  - Pedro Mascarenhas
-  - Raniere Lourenço
-  - Renan de Aguiar Modesto
+  - [Alcides Novais da Silva](https://github.com/Alcidesns)
+  - [Antonio Augusto Fonseca](https://github.com/anfonseca44)
+  - [Carlos Frederico Missick](https://github.com/CarlosMissick)
+  - [Djan Magno](https://github.com/djanmagno)
+  - [Douglas Figueiredo](https://github.com/douglasfigueiredo)
+  - [Edney Moita](https://github.com/edneymoita)
+  - [João Pedro M. Póvoa](https://github.com/JPeeMP)
+  - [Pedro Mascarenhas](https://github.com/pedro-drosa)
+  - [Raniere Lourenço](https://github.com/raniereslourenco)
+  - [Renan de Aguiar Modesto](https://github.com/rednand)
   
 # Repositórios
   
-  https://github.com/hiringcoders202103/corebiz-store
+  - [Corebiz Store](https://github.com/hiringcoders202103/corebiz-store)
+  - [Aplicação externa acessando API VTEX](https://github.com/hiringcoders202103/app-produtos)
   
 # URL Projeto
 
